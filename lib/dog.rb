@@ -8,6 +8,6 @@ class Dog
     @name 
   end 
 
-
+name=dog.new
 
 end
